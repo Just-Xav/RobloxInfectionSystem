@@ -16,3 +16,32 @@ A modular, scalable infection and mutation system designed for Roblox multiplaye
 -  **Mock Effects Ready:** Placeholder for particles or sounds at each stage.
 
 ---
+
+##  How to Use
+
+1. Place all modules in `ServerScriptService.Modules`
+2. Put `InfectionZoneScript` inside a Part (with `TouchInterest`)
+3. Put `InfectionController` in `ServerScriptService`
+4. Run the game and use chat:
+   - `!infect me` or `!infect PlayerName`
+   - `!cure me` or `!kill me`
+
+---
+
+##  To-Do / Future Features
+
+- Data saving (persistent infection stages)
+- Real particle & sound effects per stage
+- Cure conditions (e.g., standing in a healing zone)
+- UI for infection stage & timer
+
+---
+___   ___      ___   ____    ____ 
+\  \ /  /     /   \  \   \  /   / 
+ \  V  /     /  ^  \  \   \/   /  
+  >   <     /  /_\  \  \      /   
+ /  .  \   /  _____  \  \    /    
+/__/ \__\ /__/     \__\  \__/     
+
+
+
