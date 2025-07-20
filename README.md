@@ -1,7 +1,7 @@
 # RobloxInfectionSystem
 
 
-A modular, scalable infection and mutation system designed for Roblox multiplayer games. Players can be infected, mutate over time, and be cured or killed — with full dev/testing support via chat commands and part-based triggers.
+A modular, scalable infection and mutation system designed for Roblox multiplayer games. Players can be infected, mutate over time, and be cured or killed with full dev/testing support via chat commands and part-based triggers.
 
 ---
 
