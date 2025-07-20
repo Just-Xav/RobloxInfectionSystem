@@ -36,12 +36,7 @@ A modular, scalable infection and mutation system designed for Roblox multiplaye
 - UI for infection stage & timer
 
 ---
-___   ___      ___   ____    ____ 
-\  \ /  /     /   \  \   \  /   / 
- \  V  /     /  ^  \  \   \/   /  
-  >   <     /  /_\  \  \      /   
- /  .  \   /  _____  \  \    /    
-/__/ \__\ /__/     \__\  \__/     
+<pre> ___ ___ ___ ____ ____ \ \ / / / \ \ \ / / ______ \ V / / ^ \ \ \/ / |______| > < / /_\ \ \ / / . \ / _____ \ \ / /__/ \__\ /__/ \__\ \__/ </pre>
 
 
 
